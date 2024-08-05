@@ -598,10 +598,10 @@ h3.my-profession{
 }
 
 /*Project*/
-.project .container{
+/* .project .container{
     padding-bottom: 40px;
     
-}
+} */
 .project .project-heading{
     flex: 0 0 100%;
     max-width: 100%;
