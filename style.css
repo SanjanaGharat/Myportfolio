@@ -600,7 +600,7 @@ h3.my-profession{
 /*Project*/
 .project .container{
     padding-bottom: 40px;
-    box-shadow: 1px 2px 3px rgba(20,20,20,0.4);
+    box-shadow: 0 0 20px rgba(48,46,77,0.15);
 }
 .project .project-heading{
     flex: 0 0 100%;
